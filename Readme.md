@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DockLayoutControl_Ex/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DockLayoutControl_Ex/MainWindow.xaml))
+<!-- default file list end -->
 # How to: Use DockLayoutControl 
 
 
